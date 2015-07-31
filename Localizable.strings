@@ -1,0 +1,42 @@
+/* 
+  Localized.strings
+  Talk2Me
+*/
+
+"STR_OK" = "Ok";
+"STR_LOGOUT" = "Log Out";
+"STR_CANCEL" = "Cancel";
+"STR_SUCCESS" = "Success";
+"STR_ERROR" = "Error";
+"STR_TALK2ME_AGREE" = "By clicking Sign Up, you agree to Talk2Me User Agreement.";
+"STR_NONE" = "None";
+"STR_ARE_YOU_SURE" = "Are you sure?";
+"STR_DELETE" = "Delete";
+"STR_CONTACT_LIST" = "Contact list";
+"STR_FACEBOOK" = "Facebook";
+"STR_WRONG_OLD_PASSWORD" = "Wrong old password";
+"STR_FILL_IN_ALL_THE_FIELDS" = "Fill in all the fields";
+"STR_PASSWORD_CHANGED" = "Password changed";
+"STR_ONLINE" = "Online";
+"STR_OFFLINE" = "Offline";
+"STR_PENDING" = "Pending";
+"STR_PASSWORD_IS_TOO_SHORT" = "Password is too short";
+"STR_MESSAGE_WAS_SENT_TO_YOUR_EMAIL" = "Message was sent to your email. Check it";
+"STR_THANKS" = "Thanks!";
+"STR_BUG" = "Bug";
+"STR_IMPROVEMENT" = "Improvement";
+"STR_SUGGESTION" = "Suggestion";
+"STR_DEAR_FRIEND" = "Dear friend, use Talk2Me application to reach me! Download in App Store.";
+"STR_YOUR _CURRENT_SESSION_IS_NO_LONGER_VALID" = "Your current session is no longer valid. Please log in again.";
+"STR_CONTACTS" = "My Contacts";
+"STR_ALL_USERS" = "All users";
+"STR_REQUESTS" = "REQUESTS";
+"STR_TAKE_NEW_PHOTO" = "Take New Photo";
+"STR_CHOOSE_FROM_LIBRARY" = "Choose from Library";
+"STR_CANT_ADD_NEW_FRIEND" = "You can't add new friend, because all existing friends are added in this group chat";
+
+"STR_CONFIRM_REJECT_FRIENDS_REQUEST" = "Do you really want to reject contact request from %@?";
+"STR_CONFIRM_DELETE_CONTACT" = "Do you really want to delete %@ from your contact list?";
+
+"STR_MAIL_COMPOSER_ERROR_DESCRIPTION_FOR_INVITE" = "We can't send your email invite due to misconfigured email account. Please go to Settings app-> Mail,Contact, Calendars and setup it.";
+
